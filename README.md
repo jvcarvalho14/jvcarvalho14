@@ -1,6 +1,6 @@
 # Olá, eu sou o João Vitor 👋
 
-🎓 Estudante de Engenharia de Software na UNIMONTES (Montes Claros - MG)
+🎓 Estudante de Sistemas de Informação na UNIMONTES (Montes Claros - MG)
 💻 Focado em desenvolvimento **Backend**, aprendendo **Java** e me preparando para estudar **Spring Boot**
 🚀 Construindo projetos práticos para consolidar Orientação a Objetos, boas práticas e arquitetura em camadas
 
