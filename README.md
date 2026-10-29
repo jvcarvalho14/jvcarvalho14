@@ -1,4 +1,4 @@
-# João Carvalho
+# João Carvalho 💻
 
 ### Backend Developer | Java & Spring Boot
 
