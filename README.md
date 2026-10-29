@@ -32,17 +32,6 @@ Currently focused on developing strong fundamentals and gaining professional exp
 
 ## 🚀 Featured Projects
 
-### 🏦 Java Banking System
-Console-based banking application developed to practice core Java and object-oriented programming concepts.
-
-**Highlights:**
-- Object-Oriented Programming
-- Encapsulation, inheritance and polymorphism
-- Enums and composition
-- Business logic and data validation
-
----
-
 ### 🌐 Java Web Agenda
 Web application developed with **Java, Tomcat and MySQL**, implementing a complete CRUD workflow.
 
